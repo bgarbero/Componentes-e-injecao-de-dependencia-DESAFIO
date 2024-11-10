@@ -64,7 +64,7 @@ Cada serviço deve ser registrado como um componente Spring com a anotação `@S
 
 ## Como Executar
 
-1. Clone este repositório: [Componentes-e-injecao-de-dependencia-DESAFIO](https://github.com/bgarbero/Componentes-e-injecao-de-dependencia-DESAFIO/blob/main/src/main/java/Desafio/Componentes/e/injecao/de/dependencia/DesafioComponentesEInjecaoDeDependenciaApplication.java)
+1. Clone este repositório
 2. Importe o projeto em sua IDE preferida.
 3. Compile e execute o projeto usando a ferramenta de sua escolha (e.g., Maven, Gradle).
 4. Verifique os logs do terminal para a saída do cálculo do pedido.
@@ -72,7 +72,3 @@ Cada serviço deve ser registrado como um componente Spring com a anotação `@S
 ## Licença
 
 Este projeto é desenvolvido para fins de aprendizado e prática de conceitos de desenvolvimento back-end com Spring Boot.
-
----
-
-Para mais detalhes, acesse a [documentação oficial do desafio](https://devsuperior.com.br).
