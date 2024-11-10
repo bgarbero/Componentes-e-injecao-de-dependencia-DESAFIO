@@ -31,7 +31,7 @@ public class DesafioComponentesEInjecaoDeDependenciaApplication implements Comma
 
 		Order order = new Order(orderCode, basic, discount);
 
-		System.out.printf("Pedido código %d%nValor total: %.2f", order.getOrder(), orderService.total(order));
+		System.out.printf("Pedido código %d%nValor total: R$ %.2f", order.getOrder(), orderService.total(order));
 
 		sc.close();
 	}
